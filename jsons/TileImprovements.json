@@ -8,7 +8,7 @@
 		"happiness": -1,
 		"science": -1,
     "culture": -1,
-		"turnsToBuild": 10,
+		"turnsToBuild": 20,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Does not need removal of [All]", "Gives a defensive bonus of [-10]%", "Tile provides yield without assigned population", 
 			"Nullifies all other stats this tile provides", 
