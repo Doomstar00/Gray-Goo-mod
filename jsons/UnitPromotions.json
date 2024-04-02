@@ -60,7 +60,7 @@
   },
   {
     "name": "Nanite Advanced Terraforming",
-    "uniques": ["Turn this tile into a [Gray Goo terrain] tile <in [non-[Gray Goo terrain]] tiles> <for all movement>"
+    "uniques": ["Turn this tile into a [Gray Goo terrain] tile <in [{non-[Gray Goo terrain]} {non-[your]}] tiles> <for all movement>"
     ],
     "unitTypes": ["Gray Goo"]
   },
@@ -75,7 +75,7 @@
   },
   {
     "name": "Nanite Mobile Launching",
-    "uniques": ["May Paradrop up to [4] tiles from inside friendly territory"
+    "uniques": ["May Paradrop up to [4] tiles from inside friendly territory", "[+1] Movement"
     ],
     "unitTypes": ["Gray Goo"]
   },
