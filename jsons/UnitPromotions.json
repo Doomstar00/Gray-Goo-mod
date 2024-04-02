@@ -74,6 +74,12 @@
     "unitTypes": ["Gray Goo"]
   },
   {
+    "name": "Nanite Mobile Launching",
+    "uniques": ["May Paradrop up to [4] tiles from inside friendly territory"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
     "name": "Nanite Replication",
     "uniques": ["Free [Gray Goo unit] appears", 
           "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", 
@@ -83,7 +89,8 @@
 	        "Only available <for units with [Nanite Advanced Devouring]>", 
 	        "Only available <for units with [Nanite Assimilation]>", 
 	        "Only available <for units with [Nanite Advanced Terraforming]>", 
-	        "Only available <for units with [Nanite Flying]>"
+	        "Only available <for units with [Nanite Flying]>", 
+	        "Only available <for units with [Nanite Mobile launching]>"
     ],
     "unitTypes": ["Gray Goo"]
   }
