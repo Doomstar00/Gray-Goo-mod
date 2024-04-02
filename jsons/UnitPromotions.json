@@ -8,10 +8,11 @@
     "[+50]% Strength <when fighting in [Gray Goo terrain] tiles>", 
     "[+50]% Strength <when fighting in [Gray Goo improvement] tiles>", 
     "Ignores terrain cost <in [Gray Goo terrain] tiles>", 
-    "[+2] Movement <in [Gray Goo terrain] tiles>", 
+    "[+2] Movement <in [Gray Goo terrain] tiles>",  
     "[+1] Movement <in [Gray Goo improvement] tiles>", 
     "[+10] HP when healing <in [Gray Goo terrain] tiles>", 
     "[+5] HP when healing <in [Gray Goo improvement] tiles>", 
+    "[+10] HP when healing <after discovering [Nanotechnology]>", 
     "Heal this unit by [10] HP <every [1] turns> <in [Gray Goo terrain] tiles> <upon turn end>"
     ]
 	},
@@ -80,6 +81,12 @@
     "unitTypes": ["Gray Goo"]
   },
   {
+    "name": "Nanite Repair",
+    "uniques": ["[+10] HP when healing", "Unit will heal every turn, even if it performs an action"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
     "name": "Nanite Replication",
     "uniques": ["Free [Gray Goo unit] appears", 
           "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", 
@@ -90,6 +97,7 @@
 	        "Only available <for units with [Nanite Assimilation]>", 
 	        "Only available <for units with [Nanite Advanced Terraforming]>", 
 	        "Only available <for units with [Nanite Flying]>", 
+	        "Only available <for units with [Nanite Repair]>", 
 	        "Only available <for units with [Nanite Mobile launching]>"
     ],
     "unitTypes": ["Gray Goo"]
