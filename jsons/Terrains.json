@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Gray Goo terrain",
+		"uniqueTo": "Gray Goo",
+		"type": "Land",
+		"movementCost": 3,
+		"defenceBonus": -0.25,
+		"RGB": [95,95,95],
+		"uniques": [
+			"[-2 Food, -2 Production, -2 Gold, -2 Happiness, -2 Science, -2 Culture]", 
+    "Tile provides yield without assigned population", 
+		"Rough terrain",
+		"Doesn't generate naturally"
+    ]
+	}
+]

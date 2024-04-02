@@ -1,0 +1,39 @@
+[
+	
+	{
+		"name": "Gray Goo",
+		"leaderName": "Gray Goo Hivemind",
+		"adjective": ["Gray Goo s"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You will be eaten",
+		"attacked": "You will be eaten",
+		"defeated": "You have won",
+		"introduction": "Hello, i am Gray Goo, army of nanites",
+
+		"neutralHello": "hello.",
+		"hateHello": "go away.",
+
+		"tradeRequest": "trade?",
+
+		"outerColor": [63, 63, 63],
+		"innerColor": [127, 127, 127],
+		"uniqueName": "All-devouring nanobots",
+		"uniques": [
+    "[+10]% [Science]", 
+    "[All] units gain the [Nanite] promotion",
+    "[-50]% Strength <for [All] units> <when fighting in [non-[Friendly Land]] tiles> <before discovering [Nanotechnology]>", 
+    "[+4 Food, +4 Production, +4 Gold, +4 Happiness, +4 Science, +4 Culture] from [Gray Goo terrain] tiles [in all cities]", 
+    "[+2 Food, +2 Production, +2 Gold, +1 Happiness, +2 Science, +2 Culture] from [Gray Goo improvement] tiles [in all cities]", 
+    "[-50]% Production when constructing [Military] units [in all cities]", 
+    "[Gold] cost of purchasing [Military] units [+100]%", 
+		"[Faith] cost of purchasing [Military] units [+100]%"
+    ],
+		"cities": [
+			"Gray Goo"
+		]
+	}
+]

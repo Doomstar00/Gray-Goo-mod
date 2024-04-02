@@ -1,0 +1,90 @@
+[
+	{
+    "name": "Nanite",
+		"uniqueTo": "Gray Goo",
+		"uniques": [ "Uncapturable",
+    "[+25]% Strength <when fighting in [Gray Goo terrain] tiles> <when defending>", 
+    "[+10]% Strength <when fighting in [Gray Goo improvement] tiles> <when defending>", 
+    "[+50]% Strength <when fighting in [Gray Goo terrain] tiles>", 
+    "[+50]% Strength <when fighting in [Gray Goo improvement] tiles>", 
+    "Ignores terrain cost <in [Gray Goo terrain] tiles>", 
+    "[+2] Movement <in [Gray Goo terrain] tiles>", 
+    "[+1] Movement <in [Gray Goo improvement] tiles>", 
+    "[+10] HP when healing <in [Gray Goo terrain] tiles>", 
+    "[+5] HP when healing <in [Gray Goo improvement] tiles>", 
+    "Heal this unit by [10] HP <every [1] turns> <in [Gray Goo terrain] tiles> <upon turn end>"
+    ]
+	},
+  {
+    "name": "Nanite Devouring",
+    "uniques": ["Doing so will consume this opportunity to choose a Promotion",
+      "[+50]% Strength <for [9999] turns> <for [Gray Goo unit] units>"]
+  },
+  {
+    "name": "Nanite Camouflage",
+    "uniques": ["Invisible to non-adjacent units <before discovering [Nanotechnology]>",
+        "Invisible to non-adjacent units <in [Gray Goo terrain] tiles>",
+        "Invisible to non-adjacent units <in [Gray Goo improvement] tiles>",
+        "Invisible to others <in [your] tiles>"
+    ]
+  },
+  {
+    "name": "Nanite Interception",
+    "uniques": ["[100]% chance to intercept air attacks",
+        "[1] Air Interception Range"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
+    "name": "Nanite Cloud",
+    "uniques": ["[-20]% Strength for enemy [All] units in adjacent [All] tiles",
+        "[+20]% Strength bonus for [All] units within [1] tiles"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
+    "name": "Nanite Advanced Devouring",
+    "uniques": [
+	  "Heals [20] damage if it kills a unit", 
+    "Earn [80]% of the damage done to [All] units as [Gold]",
+    "Earn [80]% of the damage done to [All] units as [Science]",
+    "Earn [80]% of the damage done to [All] units as [Culture]",
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
+    "name": "Nanite Assimilation",
+    "uniques": ["May capture killed [All] units"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
+    "name": "Nanite Advanced Terraforming",
+    "uniques": ["Turn this tile into a [Gray Goo terrain] tile <in [non-[Gray Goo terrain]] tiles> <for all movement>"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
+    "name": "Nanite Flying",
+    "uniques": ["Can see over obstacles", "All tiles cost 1 movement", "[+1] Movement", 
+        "Eliminates combat penalty for attacking across a coast", 
+        "Eliminates combat penalty for attacking over a river", 
+        "Ignores Zone of Control", "Ignores terrain cost", "May heal outside of friendly territory"
+    ],
+    "unitTypes": ["Gray Goo"]
+  },
+  {
+    "name": "Nanite Replication",
+    "uniques": ["Free [Gray Goo unit] appears", 
+          "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", 
+	        "Heals [10] damage if it kills a unit", 
+	        "Only available <for units with [Nanite Interception]>", 
+	        "Only available <for units with [Nanite Cloud]>", 
+	        "Only available <for units with [Nanite Advanced Devouring]>", 
+	        "Only available <for units with [Nanite Assimilation]>", 
+	        "Only available <for units with [Nanite Advanced Terraforming]>", 
+	        "Only available <for units with [Nanite Flying]>"
+    ],
+    "unitTypes": ["Gray Goo"]
+  }
+]

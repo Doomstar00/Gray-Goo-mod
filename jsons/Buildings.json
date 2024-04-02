@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Nanite Shapeshifting",
+		"uniqueTo": "Gray Goo",
+		"replaces": "Heroic Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion", 
+        "All newly-trained [non-[Air]] units [in this city] receive the [Nanite Camouflage] promotion",
+		  	"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
+	}
+]
