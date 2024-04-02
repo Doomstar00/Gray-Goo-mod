@@ -1,16 +1,4 @@
-[/*
-	{
-		"name": "Gray Goo terraformer",
-		"unitType": "Civilian",
-		"uniqueTo": "Gray Goo",
-		"movement": 2,
-		"cost": 100,
-		"requiredTech": "Nanotechnology",
-		"uniques": ["May travel on Water tiles without embarking",
-        "Can pass through impassable tiles", "Uncapturable",
-        "Turn this tile into a [Gray Goo terrain] tile <in [non-[Gray Goo terrain]] tiles> <by consuming this unit>"
-		]
-	},*/
+[
 	{
 		"name": "Gray Goo unit",
 		"unitType": "Gray Goo",
@@ -26,7 +14,8 @@
     "Earn [20]% of the damage done to [All] units as [Science]",
     "Earn [20]% of the damage done to [All] units as [Culture]",
     "This Unit gains the [Nanite Devouring] promotion <upon defeating a [Military] unit> <for [Gray Goo]>",
-    "Turn this tile into a [Gray Goo terrain] tile <in [{non-[Gray Goo terrain]} {your}] tiles> <for all movement>"
+    "Turn this tile into a [Gray Goo terrain] tile <in [{non-[Gray Goo terrain]} {your}] tiles> <for all movement>", 
+			"Can see invisible [All] units"
     ]
 	}
 ]
