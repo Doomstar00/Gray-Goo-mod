@@ -23,7 +23,7 @@
   },
   {
     "name": "Nanite Camouflage",
-    "uniques": ["Invisible to non-adjacent units <before discovering [Nanotechnology]>",
+    "uniques": ["Invisible to non-adjacent units <before discovering [Electronics]>",
         "Invisible to non-adjacent units <in [Gray Goo terrain] tiles>",
         "Invisible to non-adjacent units <in [Gray Goo improvement] tiles>",
         "Invisible to others <in [your] tiles>"
