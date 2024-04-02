@@ -16,6 +16,7 @@
     "This Unit gains the [Nanite Devouring] promotion <upon defeating a [Military] unit> <for [Gray Goo]>",
     "Turn this tile into a [Gray Goo terrain] tile <in [{non-[Gray Goo terrain]} {your}] tiles> <for all movement>", 
 			"Can see invisible [All] units"
-    ]
+    ],
+	"attackSound": "gdrattack"
 	}
 ]
