@@ -98,7 +98,7 @@
 	        "Only available <for units with [Nanite Advanced Terraforming]>", 
 	        "Only available <for units with [Nanite Flying]>", 
 	        "Only available <for units with [Nanite Repair]>", 
-	        "Only available <for units with [Nanite Mobile launching]>"
+	        "Only available <for units with [Nanite Mobile Launching]>"
     ],
     "unitTypes": ["Gray Goo"]
   }
